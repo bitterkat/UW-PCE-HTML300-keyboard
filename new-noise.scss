@@ -1,0 +1,31 @@
+@import "variables";
+
+html {
+  font: normal normal 16px/1.2 Helvetica, sans-serif;
+}
+
+#instrument {
+
+}
+
+.note {
+  border: 2px solid $black;
+  margin: $margins;
+  padding: $margins;
+
+  &.focus,
+  &:hover {
+    background: pink;
+  }
+
+  .thing {
+    margin: 0rem;
+  }
+  + .other-thing {
+    margin: 2rem;
+  }
+}
+
+
+
+#instrument note {}

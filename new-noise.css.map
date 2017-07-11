@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,IAAK,CACH,IAAI,CAAE,4CAA4C,CAOpD,KAAM,CACJ,MAAM,CAAE,cAAgB,CACxB,MAAM,CCXE,WAAW,CDYnB,OAAO,CCZC,WAAW,CDcnB,uBACQ,CACN,UAAU,CAAE,IAAI,CAGlB,YAAO,CACL,MAAM,CAAE,IAAI,CAEd,kBAAe,CACb,MAAM,CAAE,IAAI",
+"sources": ["new-noise.scss","variables.scss"],
+"names": [],
+"file": "new-noise.css"
+}
